@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfRival xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Rival>
+    <Name>SedsitGC</Name>
+    <ShootingSkill>80</ShootingSkill>
+    <PostProductionSkill>70</PostProductionSkill>
+    <InitialSubscribers>26500</InitialSubscribers>
+    <VideoKeyword1>Garry's Mod</VideoKeyword1>
+    <VideoKeyword2>Garry's Mod DarkRP</VideoKeyword2>
+    <VideoKeyword3>Garry's Mod Prop Hunt</VideoKeyword3>
+    <VideoKeyword4>Garry's Mod DeathRun</VideoKeyword4>
+  </Rival>
+  <Rival>
+    <Name>Gubka Channle</Name>
+    <ShootingSkill>90</ShootingSkill>
+    <PostProductionSkill>80</PostProductionSkill>
+    <InitialSubscribers>89500</InitialSubscribers>
+    <VideoKeyword1>Garry's Mod DarkRP</VideoKeyword1>
+    <VideoKeyword2>Garry's Mod</VideoKeyword2>
+    <VideoKeyword3>Garry's Mod Prop Hunt</VideoKeyword3>
+    <VideoKeyword4>Call of Duty</VideoKeyword4>
+  </Rival>
+  <Rival>
+    <Name>Crow Music</Name>
+    <ShootingSkill>60</ShootingSkill>
+    <PostProductionSkill>70</PostProductionSkill>
+    <InitialSubscribers>150000</InitialSubscribers>
+    <VideoKeyword1>Heavy Metal</VideoKeyword1>
+    <VideoKeyword2>Thrash Metal</VideoKeyword2>
+    <VideoKeyword3>Black Metal</VideoKeyword3>
+    <VideoKeyword4>Death Metal</VideoKeyword4>
+  </Rival>
+  <Rival>
+    <Name>CATTY_KATE</Name>
+    <ShootingSkill>60</ShootingSkill>
+    <PostProductionSkill>65</PostProductionSkill>
+    <InitialSubscribers>200000</InitialSubscribers>
+    <VideoKeyword1>Fuzzy Cat</VideoKeyword1>
+    <VideoKeyword2>Cute cat</VideoKeyword2>
+    <VideoKeyword3>Grumpy cat</VideoKeyword3>
+    <VideoKeyword4>Cat meme</VideoKeyword4>
+  </Rival>
+  <Rival>
+    <Name>NaeroX</Name>
+    <ShootingSkill>70</ShootingSkill>
+    <PostProductionSkill>80</PostProductionSkill>
+    <InitialSubscribers>500000</InitialSubscribers>
+    <VideoKeyword1>Grand Theft Auto 5</VideoKeyword1>
+    <VideoKeyword2>Grand Theft Auto San Andreas</VideoKeyword2>
+    <VideoKeyword3>Garry's Mod</VideoKeyword3>
+    <VideoKeyword4>Garry's Mod Addons</VideoKeyword4>
+  </Rival>
+  <Rival>
+    <Name>CraftyHowTo's</Name>
+    <ShootingSkill>40</ShootingSkill>
+    <PostProductionSkill>30</PostProductionSkill>
+    <InitialSubscribers>800000</InitialSubscribers>
+    <VideoKeyword1>How to fix</VideoKeyword1>
+    <VideoKeyword2>How to bake a cake</VideoKeyword2>
+    <VideoKeyword3>How to sew</VideoKeyword3>
+    <VideoKeyword4>How to cook</VideoKeyword4>
+  </Rival>
+  <Rival>
+    <Name>&lt;XTRMEFreak&gt;</Name>
+    <ShootingSkill>45</ShootingSkill>
+    <PostProductionSkill>30</PostProductionSkill>
+    <InitialSubscribers>1200000</InitialSubscribers>
+    <VideoKeyword1>skateboard</VideoKeyword1>
+    <VideoKeyword2>bmx</VideoKeyword2>
+    <VideoKeyword3>snowboard</VideoKeyword3>
+    <VideoKeyword4>rollerblade</VideoKeyword4>
+  </Rival>
+  <Rival>
+    <Name>The 'Good Deed' Man</Name>
+    <ShootingSkill>45</ShootingSkill>
+    <PostProductionSkill>35</PostProductionSkill>
+    <InitialSubscribers>3000000</InitialSubscribers>
+    <VideoKeyword1>helping people</VideoKeyword1>
+    <VideoKeyword2>charity</VideoKeyword2>
+    <VideoKeyword3>human rights</VideoKeyword3>
+    <VideoKeyword4>donation</VideoKeyword4>
+  </Rival>
+  <Rival>
+    <Name>Ilies Vlogs</Name>
+    <ShootingSkill>50</ShootingSkill>
+    <PostProductionSkill>35</PostProductionSkill>
+    <InitialSubscribers>7000000</InitialSubscribers>
+    <VideoKeyword1>my life vlog</VideoKeyword1>
+    <VideoKeyword2>bad day vlog</VideoKeyword2>
+    <VideoKeyword3>sad vlog</VideoKeyword3>
+    <VideoKeyword4>job vlog</VideoKeyword4>
+  </Rival>
+  <Rival>
+    <Name>MarkPlayer</Name>
+    <ShootingSkill>80</ShootingSkill>
+    <PostProductionSkill>75</PostProductionSkill>
+    <InitialSubscribers>12000000</InitialSubscribers>
+    <VideoKeyword1>Five Night's At Freddy's</VideoKeyword1>
+    <VideoKeyword2>Challenge</VideoKeyword2>
+    <VideoKeyword3>Grand Theft Auto 5</VideoKeyword3>
+    <VideoKeyword4>Five Night's At Freddy's 4</VideoKeyword4>
+  </Rival>
+  <Rival>
+    <Name>TechTalk with Tech Terry</Name>
+    <ShootingSkill>80</ShootingSkill>
+    <PostProductionSkill>60</PostProductionSkill>
+    <InitialSubscribers>15000000</InitialSubscribers>
+    <VideoKeyword1>c++ technology</VideoKeyword1>
+    <VideoKeyword2>Android technology</VideoKeyword2>
+    <VideoKeyword3>iPhone</VideoKeyword3>
+    <VideoKeyword4>PC technology</VideoKeyword4>
+  </Rival>
+  <Rival>
+    <Name>BigTimeRushVevo</Name>
+    <ShootingSkill>90</ShootingSkill>
+    <PostProductionSkill>90</PostProductionSkill>
+    <InitialSubscribers>45000000</InitialSubscribers>
+    <VideoKeyword1>New Album</VideoKeyword1>
+    <VideoKeyword2>BigTimeRush</VideoKeyword2>
+    <VideoKeyword3>Vevo</VideoKeyword3>
+    <VideoKeyword4>Music</VideoKeyword4>
+  </Rival>
+  <Rival>
+    <Name>ArmchairMovieCritic</Name>
+    <ShootingSkill>45</ShootingSkill>
+    <PostProductionSkill>45</PostProductionSkill>
+    <InitialSubscribers>45000100</InitialSubscribers>
+    <VideoKeyword1>classic movie</VideoKeyword1>
+    <VideoKeyword2>action movie</VideoKeyword2>
+    <VideoKeyword3>romance movie</VideoKeyword3>
+    <VideoKeyword4>superhero movie</VideoKeyword4>
+  </Rival>
+  <Rival>
+    <Name>Fashion4Life</Name>
+    <ShootingSkill>65</ShootingSkill>
+    <PostProductionSkill>50</PostProductionSkill>
+    <InitialSubscribers>46000000</InitialSubscribers>
+    <VideoKeyword1>heels shopping haul</VideoKeyword1>
+    <VideoKeyword2>makeup shopping haul</VideoKeyword2>
+    <VideoKeyword3>dresses shopping haul</VideoKeyword3>
+    <VideoKeyword4>lingerie shopping haul</VideoKeyword4>
+  </Rival>
+  <Rival>
+    <Name>EpicFails4Win</Name>
+    <ShootingSkill>65</ShootingSkill>
+    <PostProductionSkill>55</PostProductionSkill>
+    <InitialSubscribers>48000000</InitialSubscribers>
+    <VideoKeyword1>stunt fails</VideoKeyword1>
+    <VideoKeyword2>sport fails</VideoKeyword2>
+    <VideoKeyword3>epic fails</VideoKeyword3>
+    <VideoKeyword4>bmx fails</VideoKeyword4>
+  </Rival>
+</ArrayOfRival>
